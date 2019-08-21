@@ -10,4 +10,6 @@
 * [常用UI组件-WEB端整合-李玥宇](https://github.com/liyueyu/common-style/blob/master/UIApi.md)
 * [关于vue-cli初始化项目的那些坑-万盛光](http://note.youdao.com/noteshare?id=c3b79ee620151a4cd0d993897847d0cb)
 * [学习Vue2.0的建议顺序-万盛光](http://note.youdao.com/noteshare?id=b8ad2a9276ef03211e372586e737808f)
+* [elasticsearch性能调优-黄庆国](https://www.jianshu.com/p/2db649af2640)
+* [静态代码分析工具对比-黄庆国](https://www.jianshu.com/p/27dd601743d5)
 ## 2019
